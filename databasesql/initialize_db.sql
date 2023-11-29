@@ -1,0 +1,22 @@
+-- Inserting records into Products table
+INSERT INTO Products (product_id, product_name, product_price, product_quantity) VALUES
+(1, 'Apple', 0.25, 100),
+(2, 'Banana', 0.15, 200),
+(3, 'Carrot', 0.20, 300),
+(4, 'Donut', 1.00, 400),
+(5, 'Eggplant', 0.75, 500),
+(6, 'Fries', 2.00, 600),
+(7, 'Grapes', 3.00, 700),
+(8, 'Hamburger', 4.00, 800),
+(9, 'Ice Cream', 2.50, 900),
+(10, 'Juice', 1.50, 1000),
+(11, 'Kale', 0.90, 1100),
+(12, 'Lemon', 0.30, 1200),
+(13, 'Mango', 1.20, 1300),
+(14, 'Nuts', 3.50, 1400),
+(15, 'Orange', 0.40, 1500),
+(16, 'Pizza', 12.00, 1600),
+(17, 'Quinoa', 2.70, 1700),
+(18, 'Rice', 0.70, 1800),
+(19, 'Steak', 15.00, 1900),
+(20, 'Tomato', 0.50, 2000);
